@@ -2,6 +2,8 @@
 
 ### Enter a city + country and return the temperature in Fahrenheit
 
+![](img/weather-api-screenshot.png)
+
 ### Tech Used:
 
 - HTML
